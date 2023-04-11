@@ -28,7 +28,7 @@ i18n
           "OVERVIEW": "OVERVIEW",
           "INTRODUCTION": "INTRODUCTION",
 
-          "I’m currently working on React component framework": "I’m currently working on React component framework",
+          "I’m currently studying software engineering at Chongqing University of Posts and Telecommunications": "I’m currently studying software engineering at Chongqing University of Posts and Telecommunications.",
           "I’m currently learning 🧵 Vue/React,WebRTC, and so on": " I’m currently learning 🧵 Vue/React,WebRTC, and so on.",
           "I’m looking for help with 🥚 React code design": "I’m looking for help with 🥚 React code design.",
           "How to reach me: email": "How to reach me: email:",
@@ -71,7 +71,7 @@ i18n
           "OVERVIEW": "概述",
           "INTRODUCTION": "简介",
 
-          "I’m currently working on React component framework": "我目前正在开发React组件框架",
+          "I’m currently studying software engineering at Chongqing University of Posts and Telecommunications": "我目前正在重庆邮电大学软件工程专业学习",
           "I’m currently learning 🧵 Vue/React ,WebRTC, and so on": "我目前正在学习🧵Vue/React,WebRTC等等。",
           "I’m looking for help with 🥚 React code design": "我正在寻求🥚React代码设计的帮助。",
           "How to reach me: email": "如何联系我:电子邮件",
@@ -123,13 +123,14 @@ i18n
 
           "June 2022 - September 2022": "2022年6月-2022年9月",
           "September 2022 - March 2023": "2022年9月-2023年3月",
-
+          "March 2022 - November 2022":"2022年5月-2022年10月",
 
           "Testimonials": "感言",
           "WHAT OTHERS SAY": "他们怎么说",
           "FeiFei": "菲菲",
           "Teacher Cai": "蔡老师",
           "Conteact": "联系方式",
+          
           "Hong Classmate": "红同学",
           "I thought it was impossible to make a website as beautiful as our product, but GeorgeH proved me wrong.": "我认为做出像我们产品一样漂亮的网站是不可能的，但是GeorgeH却证明了我错了。",
           "I have worked with GeorgeH on several projects and I can say that he is a very talented developer.": "我与GeorgeH在几个项目上合作过，我可以说他是一个非常有才华的开发人员。",

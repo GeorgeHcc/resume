@@ -42,7 +42,7 @@ const About = () => {
         className="mt-4 text-secondary text-md mx-w-3xl leading-[30px]"
       >
         <ul>
-          <li>🔭 {t('I’m currently working on React component framework')} <a className='jump' href='https://github.com/CCherry07/Cdesign' target={'_blank'}>@Cdesign</a></li>
+          <li>🔭 {t('I’m currently studying software engineering at Chongqing University of Posts and Telecommunications')}</li>
           <li>🌱 {t('I’m currently learning 🧵 Vue/React ,WebRTC, and so on')}</li>
           <li>🤔 {t('I’m looking for help with 🥚 React code design')}</li>
           <li>📫 {t('How to reach me: email')} <a className='jump' href="mailto:georgehcc@163.com">georgehcc@163.com</a></li>
